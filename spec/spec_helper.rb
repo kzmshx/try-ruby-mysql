@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "try-ruby-mysql"
+require "try-ruby-mysql/try_ruby_mysql"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
