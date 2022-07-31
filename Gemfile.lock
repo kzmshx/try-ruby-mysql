@@ -3,6 +3,7 @@ PATH
   specs:
     try-ruby-mysql (0.1.0)
       connection_pool (~> 2.2)
+      json (~> 2.6)
       mysql2 (~> 0.5.4)
 
 GEM

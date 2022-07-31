@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
+require "mysql2"
+require "connection_pool"
+require "json"
+
 require "try-ruby-mysql/try_ruby_mysql"
 
 RSpec.configure do |config|
