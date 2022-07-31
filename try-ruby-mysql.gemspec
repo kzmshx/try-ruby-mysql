@@ -18,6 +18,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency "mysql2", "~> 0.5.4"
   gem.add_runtime_dependency "connection_pool", "~> 2.2"
+  gem.add_runtime_dependency "json", "~> 2.6"
 
   gem.add_development_dependency "rake", "~> 13.0"
   gem.add_development_dependency "rspec", "~> 3.0"
